@@ -1,6 +1,8 @@
 # xls.fit
 Fitting an eXtreme Least Squares Model Use xls.fit (XLS) With (In) R Software
 
+https://www.youtube.com/watch?v=VeeYKtTpWR0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
